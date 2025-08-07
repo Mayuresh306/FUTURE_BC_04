@@ -40,11 +40,11 @@ I created verified accounts on each platform, explored their unique features, an
 
 | Platform        | Screenshot |
 |----------------|------------|
-| PublicAI        | ✅ Added in `/screenshots/Task4_PublicAI.png` |
-| Gradient Network| ✅ Added in `/screenshots/Task4_Gradient.png` |
-| OneFootball Club| ✅ Added in `/screenshots/Task4_OneFootball.png` |
-| Shaga Finance   | ✅ Added in `/screenshots/Task4_Shaga.png` |
-| MagicNewton     | ✅ Added in `/screenshots/Task4_MagicNewton.png` |
+| PublicAI        | ✅ Added in `/Task4_PublicAI.png` |
+| Gradient Network| ✅ Added in `/Task4_Gradient.png` |
+| OneFootball Club| ✅ Added in `/Task4_OneFootball.png` |
+| Shaga Finance   | ✅ Added in `/Task4_Shaga.png` |
+| MagicNewton     | ✅ Added in `/Task4_MagicNewton.png` |
 
 ---
 
